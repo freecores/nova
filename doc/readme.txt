@@ -1,1 +1,1 @@
-To be added soon
+nova_spec.doc:specifications of nova design
