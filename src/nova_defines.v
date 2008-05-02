@@ -213,10 +213,10 @@
 //---mvy_mbAddrB_RF---
 `define mvy_mbAddrB_RF_data_width 32	
 `define mvy_mbAddrB_RF_data_depth 11
-//---mvx_mbAddrB_RF---
+//---mvx_mbAddrC_RF---
 `define mvx_mbAddrC_RF_data_width 8
 `define mvx_mbAddrC_RF_data_depth 10
-//---mvy_mbAddrB_RF---
+//---mvy_mbAddrC_RF---
 `define mvy_mbAddrC_RF_data_width 8
 `define mvy_mbAddrC_RF_data_depth 10
 
